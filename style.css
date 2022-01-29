@@ -1,0 +1,47 @@
+body{
+  background:#015F5A;
+}
+.container{
+  border: 1px solid #eee;
+  width:45%;
+  height:300px;
+  min-width: 400px;
+  margin-top:8%;
+  padding:5%;
+  background:#fff;
+  border-radius:5px;
+}
+.btn{
+  background:#015F5A;
+  color:#fff;
+  width:40px;
+  height:40px;
+  outline:none;
+  line-height:26px;
+}
+.btn:last-child{
+  width:120px; 
+}
+.btn:hover{
+  opacity:0.8;
+  color:#fff;
+}
+#by{
+  font-size:12px;
+}
+#text{
+  font-weight:bold;
+  font-size:20px;
+  height:100px;
+}
+#text,#by{
+  color:#015F5A;
+}
+#author{
+  margin-top:15px;
+  text-align:center;
+  color:#fff;
+}
+.buttons{
+  margin-top:20px;
+}
